@@ -2,6 +2,11 @@
 
 React + TypeScript + Vite で作った三目並べの Web アプリです。
 
+
+https://github.com/user-attachments/assets/e74d3bd3-78ce-4b5a-8506-e634d89e1af1
+
+
+
 ## できること
 
 - **対戦**: 2人で X と O を交互に置いて遊べます
